@@ -4,7 +4,7 @@
 
 
 
-# AWS EC2 and CloudFormation Examples
+# ec2.sh: AWS EC2 and CloudFormation Examples
 
 This repository contains various code snippets, commands, and notes related to AWS EC2 instances and CloudFormation templates.
 
