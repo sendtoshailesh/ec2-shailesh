@@ -3,7 +3,6 @@
 
 
 
-Certainly! Here's a summary of the content in GitHub README format:
 
 # AWS EC2 and CloudFormation Examples
 
@@ -69,6 +68,3 @@ Various AWS CLI commands for managing EC2 instances:
 
 Examples of creating CloudFormation stacks using the AWS CLI.
 
----
-
-This README provides an overview of the various AWS-related code snippets and commands included in the repository. For more detailed information on each topic, please refer to the specific sections in the code.
