@@ -76,9 +76,9 @@ Examples of creating CloudFormation stacks using the AWS CLI.
 
 ------------------------------------------------------------------------------------
 
-Certainly! Here's a summary of the code in GitHub README format:
 
-# Auto Scaling Group Setup with AWS CLI
+
+# ec2-autoscaling.sh: Auto Scaling Group Setup with AWS CLI
 
 This repository contains AWS CLI commands to set up and configure an Auto Scaling group for maintaining high availability.
 
@@ -157,8 +157,4 @@ aws autoscaling put-scaling-policy \
 ```
 
 This command creates a scaling policy to decrease the capacity of the Auto Scaling group by 1 instance, with a cooldown period of 300 seconds.
-
----
-
-These commands set up a complete Auto Scaling group with associated policies for maintaining high availability. Remember to replace placeholders like `AMIID`, `KEYNAME`, `EC2SECURITYGROUPID`, `LOADBALANCER`, `SUBNET1`, and `SUBNET2` with your specific values.
 
